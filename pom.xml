@@ -80,7 +80,7 @@
 				
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>${xmlFiles}</suiteXmlFile>
+						<suiteXmlFile>${testSuite}</suiteXmlFile>
 					</suiteXmlFiles>
 					<systemPropertyVariables>
 						<appURL>${url}</appURL>
