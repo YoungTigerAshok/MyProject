@@ -81,7 +81,7 @@
 				
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile></suiteXmlFile>
+						<suiteXmlFile>surefire.suiteXmlFiles</suiteXmlFile>
 					</suiteXmlFiles>
 					  
 					<systemPropertyVariables>
