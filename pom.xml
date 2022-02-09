@@ -80,8 +80,10 @@
 				
 				
 				<configuration>
-					
-					  <testFailureIgnore>true</testFailureIgnore>
+					<suiteXmlFiles>
+						<suiteXmlFile>${testng*??.xml}</suiteXmlFile>
+					</suiteXmlFiles>
+					  
 					<systemPropertyVariables>
 						<appURL>${url}</appURL>
 					</systemPropertyVariables>
