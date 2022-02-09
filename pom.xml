@@ -81,7 +81,7 @@
 				
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>${tastngXmlFile}</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<systemPropertyVariables>
 						<appURL>${url}</appURL>
