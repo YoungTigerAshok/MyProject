@@ -81,7 +81,7 @@
 				
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/resources/Default-Suite.xml</suiteXmlFile>
+						<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
 					</suiteXmlFiles>
 					<systemPropertyVariables>
 						<appURL>${url}</appURL>
