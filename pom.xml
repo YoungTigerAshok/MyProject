@@ -87,14 +87,7 @@
 			
 				
 				
-				<configuration>
-					<suiteXmlFiles>
-						<suiteXmlFile>$testngxmlfiles</suiteXmlFile>
-					</suiteXmlFiles>		  
-				<systemPropertyVariables>
-						<appURL>${url}</appURL>
-					</systemPropertyVariables>
-				</configuration>
+
 			</plugin>
 		</plugins>
 
